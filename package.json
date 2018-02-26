@@ -1,0 +1,14 @@
+{
+  "name": "neo4j-migrations",
+  "version": "0.0.0",
+  "description": "Toolkit for running migrations with neo4j",
+  "author": "Damian Gostomski <damian@builtbydamian.com>",
+  "repository": "https://github.com/builtbydamian/neo4j-migrations",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "neo4j-driver": "^1.5.3",
+    "ramda": "^0.25.0"
+  }
+}
