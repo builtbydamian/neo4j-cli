@@ -7,6 +7,7 @@
   "main": "lib/index.js",
   "license": "MIT",
   "private": false,
+  "bin": "./lib/index",
   "dependencies": {
     "neo4j-driver": "^1.5.3",
     "ramda": "^0.25.0"
