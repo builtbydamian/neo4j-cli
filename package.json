@@ -1,6 +1,6 @@
 {
   "name": "neo4j-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CLI for the most common tasks when using neo4j and cypher.",
   "author": "Damian Gostomski <damian@builtbydamian.com>",
   "repository": "https://github.com/builtbydamian/neo4j-cli",
