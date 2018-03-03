@@ -1,4 +1,4 @@
-module.exports.up = (db) => {
+module.exports = (db) => {
   return db.run(`
     MATCH
     (Keanu:Person {name:'Keanu Reeves'}),
